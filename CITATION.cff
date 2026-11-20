@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software or refer to the study, please cite it as below."
+type: software
+title: "DermaReach: Classification of Selected Skin Diseases Using Artificial Intelligence for Dark Skin Tones"
+abstract: >-
+  Companion code for a master's research project that develops a convolutional
+  neural network (VGG16 transfer learning) for multi-class classification of
+  acne, eczema, and keloids on dark skin tones. A primary clinical dataset of
+  400 images was collected, augmented to about 2,650 views, and used to train
+  and evaluate the model as a baseline for African dermatology AI.
+authors:
+  - family-names: Ajadi
+    given-names: Paul
+    email: ajadi.ololade@gmail.com
+    affiliation: University of Ibadan
+  - family-names: Woods
+    given-names: Nancy
+    email: chyn.woods@gmail.com
+    affiliation: University of Ibadan
+keywords:
+  - deep learning
+  - convolutional neural networks
+  - transfer learning
+  - dark skin tones
+  - skin disease classification
+  - acne
+  - eczema
+  - keloids
+license: MIT
+repository-code: "https://github.com/ajadi473/DermaReach"
+url: "https://github.com/ajadi473/DermaReach"
+year: 2026
+date-released: "2026-11-20"
+preferred-citation:
+  type: article
+  title: "Classification of Selected Skin Diseases Using Artificial Intelligence for Dark Skin Tones"
+  authors:
+    - family-names: Ajadi
+      given-names: Paul
+    - family-names: Woods
+      given-names: Nancy
+  year: 2026
+  institution:
+    name: University of Ibadan
+  notes: "Update with final journal venue, volume, and DOI when published."
